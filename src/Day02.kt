@@ -54,3 +54,4 @@ fun main() {
     println(part1(input))
     println(part2(input))
 }
+
